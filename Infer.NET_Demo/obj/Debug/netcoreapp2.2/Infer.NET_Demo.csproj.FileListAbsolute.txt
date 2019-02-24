@@ -1,0 +1,11 @@
+C:\Users\auysa\Desktop\Infer.NET_Demo\Infer.NET_Demo\bin\Debug\netcoreapp2.2\Infer.NET_Demo.deps.json
+C:\Users\auysa\Desktop\Infer.NET_Demo\Infer.NET_Demo\bin\Debug\netcoreapp2.2\Infer.NET_Demo.runtimeconfig.json
+C:\Users\auysa\Desktop\Infer.NET_Demo\Infer.NET_Demo\bin\Debug\netcoreapp2.2\Infer.NET_Demo.runtimeconfig.dev.json
+C:\Users\auysa\Desktop\Infer.NET_Demo\Infer.NET_Demo\bin\Debug\netcoreapp2.2\Infer.NET_Demo.dll
+C:\Users\auysa\Desktop\Infer.NET_Demo\Infer.NET_Demo\obj\Debug\netcoreapp2.2\Infer.NET_Demo.csprojAssemblyReference.cache
+C:\Users\auysa\Desktop\Infer.NET_Demo\Infer.NET_Demo\obj\Debug\netcoreapp2.2\Infer.NET_Demo.csproj.CoreCompileInputs.cache
+C:\Users\auysa\Desktop\Infer.NET_Demo\Infer.NET_Demo\obj\Debug\netcoreapp2.2\Infer.NET_Demo.AssemblyInfoInputs.cache
+C:\Users\auysa\Desktop\Infer.NET_Demo\Infer.NET_Demo\obj\Debug\netcoreapp2.2\Infer.NET_Demo.AssemblyInfo.cs
+C:\Users\auysa\Desktop\Infer.NET_Demo\Infer.NET_Demo\bin\Debug\netcoreapp2.2\Infer.NET_Demo.pdb
+C:\Users\auysa\Desktop\Infer.NET_Demo\Infer.NET_Demo\obj\Debug\netcoreapp2.2\Infer.NET_Demo.dll
+C:\Users\auysa\Desktop\Infer.NET_Demo\Infer.NET_Demo\obj\Debug\netcoreapp2.2\Infer.NET_Demo.pdb
